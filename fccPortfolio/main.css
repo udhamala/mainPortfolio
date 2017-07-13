@@ -1,0 +1,107 @@
+
+#bannerImage {
+	max-height: 200px;
+	width: 100%;
+}
+.nav {
+	font-weight: bolder;
+	font-size: 20px;
+	background-color: black;
+}
+#brand {
+	background-color: black;
+	font-weight: bold;
+}
+#wheni {
+	font-weight: bolder;
+	font-size: 22px;
+}
+#meroImg {
+	height: 250px;
+	max-width: 600px;
+	border: 2px solid;
+	padding: 0px;
+}
+#social li {
+	list-style-type: none;
+}
+#social {
+	display: flex;
+	align-items: column;
+	justify-content: space-around;
+	padding-top: 10px;
+}
+#social .social-media {
+	display:inline-block;
+	margin-right:10px;
+}
+#social .icons a {
+	padding: 3px 10px;
+    display: inline-block;
+    border: 1px solid #999;
+    color: #666;
+    background-color: black;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+#social .icons a:hover {
+	background-color:#0487cc;
+	color:#fff;
+	border-color:#0487cc;
+}
+#information {
+    padding-top:20px;
+}
+#information ul {
+	list-style:none;
+	padding-left:0;
+}
+#information ul li p {
+	display:inline-block;
+}
+#information ul li .info-title {
+	min-width:65px;
+	font-weight:bold;
+	color:#666;
+}
+#information .social-media {
+	display:inline-block;
+	margin-right:10px;
+}
+#information .icons a {
+	padding: 3px 10px;
+    display: inline-block;
+    border: 1px solid #999;
+    color: #666;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+#information .icons a:hover {
+	background-color:#0487cc;
+	color:#fff;
+	border-color:#0487cc;
+}
+#information li {
+	list-style-type: none;
+}
+.paragraph {
+	font-size: 20px;
+}
+.strong {
+	font-weight: bolder;
+}
+#connect {
+	font-weight: bolder;
+	color: #666;
+}
+#about {
+	max-width: 100%;
+	height: auto;
+}
+#img1 {
+	height: 401.27px;
+}
+#myForm {
+	background-color: black;
+	color: white;
+}
